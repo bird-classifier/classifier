@@ -19,6 +19,7 @@ tqdm = "*"
 mutagen = "*"
 noisereduce = "*"
 soundfile = "*"
+tensorflow = "*"
 
 [dev-packages]
 

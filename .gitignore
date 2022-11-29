@@ -1,4 +1,6 @@
-data/
+data/19_class2/
+data/cleaned/
+data/mels-19class2/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
