@@ -2,8 +2,6 @@
 
 Dataset used: https://www.kaggle.com/datasets/rohanrao/xeno-canto-bird-recordings-extended-a-m
 
-Report: [Link](https://github.com/bird-song-classifier/bird-classifier/blob/7bcbb95c6488bcc9c753b8df2328c2b5ab041642/report.pdf)
-
 ## File structure
 ```
 .
